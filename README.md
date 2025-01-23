@@ -1,2 +1,2 @@
 # APL3_221b450
-This is my first git based attempt
+AP lab3, weekly lab exercise updates
